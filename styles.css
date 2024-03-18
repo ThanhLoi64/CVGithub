@@ -118,5 +118,5 @@ body {
     margin-right: 3px;
 }
 .details .skills__item .right input:checked + label {
-    background: #79a9ce;
+    background: #1672a0;
 }
